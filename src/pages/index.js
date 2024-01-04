@@ -1,0 +1,9 @@
+export { default as Home } from './Home/Home';
+export { default as About } from './About/About';
+export { default as Services } from './Services/Services';
+export { default as Tickets } from './Tickets/Tickets';
+export { default as Tours } from './Tours/Tours';
+export { default as Hotels } from './Hotels/Hotels';
+export { default as Connect } from './Connect/Connect';
+export { default as TourInform } from './TourInform/TourInform';
+export { default as HotelInform } from './HotelInform/HotelInform';

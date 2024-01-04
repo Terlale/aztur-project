@@ -1,0 +1,11 @@
+{
+  "Menu": [
+    { "id": 1, "name": "Haqqımızda" },
+    { "id": 2, "name": "Xidmətlər" },
+    { "id": 3, "name": "Aviabiletlər" },
+    { "id": 4, "name": "Turlar" },
+    { "id": 5, "name": "Hotellər" },
+    { "id": 6, "name": "Əlaqə" }
+  ]
+  
+}
